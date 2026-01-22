@@ -1,0 +1,11 @@
+{
+    "version": "0.4.5",
+    "notes": "Update to version 0.4.5",
+    "pub_date": "2026-01-21T18:00:00Z",
+    "platforms": {
+        "windows-x86_64": {
+            "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVTRC9yeHhwbjNjTldkZkg1VzVBQnZKU2IrL00rWCtSdWt3Nm9CMVNUdGpicE1zNFFxVEo0dzZ3M0tDS2tYeGFEQlFSNlVUWUp5M0RRWlVtU3VVR1dkSVNHeDBYTHZVdXdRPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzY5MDEwMjA3CWZpbGU6a2hpdG1lZV8wLjQuNF94NjRfZW4tVVMubXNpCnpnajhyMEF0RnJhcWtiVTYyajYrUUJjS2E2SGtUcjB5UC9WakhlbGxtVm1ubGtoN0FlUC9sTnFGOVEzQXlWaVhjWjJiZ0JVZGZSbmprUWg5TXh2bkRRPT0K",
+            "url": "https://github.com/Morris-Zin/khitmee-releases/releases/download/v0.4.5/khitmee_0.4.5_x64_en-US.msi"
+        }
+    }
+}
